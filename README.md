@@ -68,4 +68,4 @@ we followed this [guide](http://spector.io/how-to-set-up-github-pages-with-a-cus
 but any tutorial/guide showing how to redirect a domain to GitHub pages should do.   
  
 
-
+Nutan Sakhare
